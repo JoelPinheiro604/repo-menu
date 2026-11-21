@@ -1,0 +1,4 @@
+PySide6>=6.6.0
+pywin32>=306; sys_platform == "win32"
+pymem>=1.13.0
+colorama>=0.4.6
